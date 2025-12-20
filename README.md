@@ -22,4 +22,4 @@
 
 رابط التقرير
 
-https://lookerstudio.google.com/reporting/7ef873e7-9a4c-4b10-bf85-f35ffdc382d8
+https://url-shortener.me/4CT9

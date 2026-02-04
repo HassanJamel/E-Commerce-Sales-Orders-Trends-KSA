@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://lookerstudio.google.com/reporting/7ef873e7-9a4c-4b10-bf85-f35ffdc382d8/page/rnMiF" target="_blank">
-    <img src="Dashboard Design.png" alt="Exploratory Data Analysis" width="600">
+    <img src="Dashboard Design.png" alt="Exploratory Data Analysis" width="800">
   </a>
 </p>
 **لوحة بيانات تحليلية تفاعلية** تهدف إلى تحويل بيانات المبيعات والطلبات إلى **رؤى استراتيجية قابلة للتنفيذ**، بما يدعم متخذي القرار في بناء فهم أعمق لسلوك الطلب عبر **المدن والمناطق والفئات المختلفة داخل المملكة العربية السعودية**.
